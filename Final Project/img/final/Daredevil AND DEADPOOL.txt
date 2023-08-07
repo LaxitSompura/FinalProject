@@ -1,0 +1,79 @@
+ssue:	# -1	 Daredevil Issue # -1's cover image
+Cover Date:	Jul '97
+Cover Price:	$1.95
+Current Value:	$4.00 Historical Pricing Values
+Searched:	18394
+Owned:	245
+Pages:	32
+
+Issue:	# 8	 Daredevil Issue # 8's cover image
+Cover Date:	Jun '65
+Cover Price:	$0.12
+Current Value:	$415.00 Historical Pricing Values
+Searched:	9968
+Owned:	248
+Pages:	32
+
+Issue:	# 1	 Deadpool Issue # 1's cover image
+Cover Date:	Aug '93
+Cover Price:	$2.50
+Current Value:	$20.00 Historical Pricing Values
+Searched:	11635
+Owned:	2484
+Pages:	32
+
+Issue:	# 2	 Deadpool Issue # 2's cover image
+Cover Date:	Sep '93
+Cover Price:	$2.00
+Current Value:	$10.00 Historical Pricing Values
+Searched:	6947
+Owned:	1515
+Pages:	32
+
+Issue:	# 3	 Deadpool Issue # 3's cover image
+Cover Date:	Oct '93
+Cover Price:	$2.00
+Current Value:	$10.00 Historical Pricing Values
+Searched:	5761
+Owned:	1359
+Pages:	32
+
+Issue:	# 4	 Deadpool Issue # 4's cover image
+Cover Date:	Nov '93
+Cover Price:	$2.00
+Current Value:	$10.00 Historical Pricing Values
+Searched:	5492
+Owned:	1290
+Pages:	32
+
+Hard Cover:	# 1	 Daredevil: Born Again Hard Cover # 1's cover image
+Cover Date:	Jan '09
+Cover Price:	$24.99
+Current Value:	$25.00 Historical Pricing Values
+Searched:	971
+Owned:	24
+Pages:	248
+
+Hard Cover:	# 1	 Daredevil: Born Again Hard Cover # 1's cover image
+Cover Date:	Jan '09
+Cover Price:	$24.99
+Current Value:	$25.00 Historical Pricing Values
+Searched:	971
+Owned:	24
+Pages:	248
+
+Issue:	# 94	 Daredevil Issue # 94's cover image
+Cover Date:	Dec '72
+Cover Price:	$0.20
+Current Value:	$50.00 Historical Pricing Values
+Searched:	2979
+Owned:	253
+Pages:	32
+
+Issue:	# 99	 Daredevil Issue # 99's cover image
+Cover Date:	Jun '77
+Cover Price:	$0.20
+Current Value:	$55.00 Historical Pricing Values
+Searched:	7901
+Owned:	272
+Pages:	32

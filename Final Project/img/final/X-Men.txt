@@ -1,0 +1,77 @@
+Issue:	# 1	 X-Men Issue # 1's cover image
+Cover Date:	Sep '63
+Cover Price:	$0.12
+Current Value:	$46,000.00 Historical Pricing Values
+Searched:	43268
+Owned:	193
+Pages:	32
+
+Issue:	# 3	 X-Men Issue # 3's cover image
+Cover Date:	Jan '64
+Cover Price:	$0.12
+Current Value:	$2,700.00 Historical Pricing Values
+Searched:	21440
+Owned:	180
+Pages:	32
+
+Issue:	# 11	 X-Men Issue # 11's cover image
+Cover Date:	May '65
+Cover Price:	$0.12
+Current Value:	$1,125.00 Historical Pricing Values
+Searched:	14806
+Owned:	261
+Pages:	32
+
+Issue:	# 23	 X-Men Issue # 23's cover image
+Cover Date:	Aug '66
+Cover Price:	$0.12
+Current Value:	$300.00 Historical Pricing Values
+Searched:	9911
+Owned:	353
+Pages:	32
+
+Issue:	# 37	 X-Men Issue # 37's cover image
+Cover Date:	Oct '67
+Cover Price:	$0.12
+Current Value:	$225.00 Historical Pricing Values
+Searched:	9352
+Owned:	382
+
+Issue:	# 94	 X-Men Issue # 94's cover image
+Cover Date:	Aug '75
+Cover Price:	$0.25
+Current Value:	$2,000.00 Historical Pricing Values
+Searched:	71537
+Owned:	544
+Pages:	32
+
+Issue:	# 98	 X-Men Issue # 98's cover image
+Cover Date:	Apr '76
+Cover Price:	$0.25
+Current Value:	$250.00 Historical Pricing Values
+Searched:	25460
+Owned:	556
+Pages:	32
+
+Issue:	# 98	 X-Men Issue # 98's cover image
+Cover Date:	Apr '76
+Cover Price:	$0.25
+Current Value:	$250.00 Historical Pricing Values
+Searched:	25460
+Owned:	556
+Pages:	32
+
+Issue:	# 96b	 X-Men Issue # 96b's cover image
+Cover Date:	Dec '04
+Cover Price:	Free
+Current Value:	$8.00 Historical Pricing Values
+Searched:	4675
+Owned:	44
+
+Issue:	# 69	 X-Men Issue # 69's cover image
+Cover Date:	Apr '71
+Cover Price:	$0.25
+Current Value:	$175.00 Historical Pricing Values
+Searched:	5030
+Owned:	190
+Pages:	20

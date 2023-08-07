@@ -1,0 +1,174 @@
+<!--This is a group Project done by Laxit Sompura(200556299) and Jainam Daxesh Thakkar(200556069)-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Comic Book Store</title>
+  <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+  <!-- Header section -->
+  <header>
+    <div class="logo-title">
+      <!-- Comic Book Store Logo -->
+      <a href="index.html"><img src="./img/LOGO.png" alt="Comic Book Store Logo"></a>
+      <!-- Store name -->
+      <span class="logo-text">Golden Age Comics Hub</span>
+    </div>
+    <!-- Navigation menu -->
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="store.html">Store</a></li>
+        <li><a href="aboutus.html">About</a></li>
+        <li><a href="contactus.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <!-- Main content -->
+  <main>
+    <!-- Image slider -->
+    <div class="slider-container">
+      <div class="slider">
+        <img src="./img/gradient.jpg" alt="Image 1">
+        <img src="./img/gradient2.jpg" alt="Image 2">
+        <img src="./img/gradient3.jpg" alt="Image 3">
+        <!-- Add more images here -->
+      </div>
+      <!-- Slider navigation buttons -->
+      <button class="prev-button" onclick="prevSlide()">Previous</button>
+      <button class="next-button" onclick="nextSlide()">Next</button>
+    </div>
+    <br>
+    
+    <!-- Welcome section -->
+    <section>
+      <h2>Welcome to Golden Age Comics Hub</h2>
+      <p>Enjoy Marvelous comic of golden age</p>
+    </section>
+    
+    <!-- Comic book list -->
+    <div class="pizza-list">
+      <div class="pizza-item">
+        <a href="store.html"><img src="./img/gdfgd.jpeg" alt="error"></a>
+        <h3>Avengers</h3>
+        <div class="butt">
+          <a href="store.html"><img src="./img/butimg.png" alt="Comic Book Store Logo"></a>
+        </div>
+      </div>
+      
+      <div class="pizza-item">
+        <a href="store.html"><img src="./img/thexmen.jpeg"  alt="error"></a>
+        <h3>X-MEN</h3>
+        <div class="butt">
+          <a href="store.html"><img src="./img/butimg.png" alt="Comic Book Store Logo"></a>
+        </div>
+      </div>
+      
+      <div class="pizza-item">
+        <a href="store.html"><img src="./img/c1.jpg"  alt="error"></a>
+        <h3>Captain America</h3>
+        <div class="butt">
+          <a href="store.html"><img src="./img/butimg.png"  alt="error"></a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="pizza-list">
+      <div class="pizza-item">
+        <a href="store.html"><img src="./img/spiderman.jpeg" alt="error" ></a>
+        <h3>Spider Man</h3>
+        <div class="butt">
+          <a href="store.html"><img src="./img/butimg.png" alt="Comic Book Store Logo"></a>
+        </div>
+      </div>
+      
+      <div class="pizza-item">
+        <a href="store.html"><img src="./img/Deadpool.jpeg"  alt="error"></a> 
+        <h3>Deadpool And Daredevil</h3>
+        <div class="butt">
+          <a href="store.html"><img src="img/butimg.png" alt="Comic Book Store Logo"></a>
+        </div>
+      </div>
+      
+      <div class="pizza-item">
+        <a href="store.html"><img src="./img/download4.jpeg"  alt="error"></a>
+        <h3>Iron Man</h3>
+        <div class="butt">
+          <a href="store.html"><img src="./img/butimg.png" alt="Comic Book Store Logo"></a>
+        </div>
+      </div>
+    </div>
+    
+    <!-- View more button -->
+    <div class="grid-button">
+      <a href="store.html" class="button">View More</a>
+    </div>
+  </main>
+  
+  <!-- Footer section -->
+  <footer>
+    <div class="footer-content">
+      <!-- Copyright notice -->
+      <p>&copy; 2023 Golden Age Comics Hub</p>
+    </div>
+  </footer>
+  
+  <!-- JavaScript for image slider -->
+  <script>
+    const slider = document.querySelector('.slider');
+    const prevButton = document.querySelector('.prev-button');
+    const nextButton = document.querySelector('.next-button');
+    let currentIndex = 0;
+    let slideInterval = 3000; // Interval in milliseconds (e.g., 5 seconds)
+    let slideTimer;
+
+    // Display slide at given index
+    function showSlide(index) {
+      const slideWidth = slider.offsetWidth;
+      slider.style.transform = `translateX(-${slideWidth * index}px)`;
+    }
+
+    // Move to previous slide
+    function prevSlide() {
+      currentIndex = (currentIndex - 1 + slider.children.length) % slider.children.length;
+      showSlide(currentIndex);
+    }
+
+    // Move to next slide
+    function nextSlide() {
+      currentIndex = (currentIndex + 1) % slider.children.length;
+      showSlide(currentIndex);
+    }
+
+    // Start auto slide show
+    function startSlideShow() {
+      slideTimer = setInterval(nextSlide, slideInterval);
+    }
+
+    // Stop auto slide show
+    function stopSlideShow() {
+      clearInterval(slideTimer);
+    }
+
+    // Initialize slider and start auto slide show
+    showSlide(currentIndex);
+    startSlideShow();
+
+    // Event listeners for navigation buttons
+    prevButton.addEventListener('click', () => {
+      stopSlideShow();
+      prevSlide();
+      startSlideShow();
+    });
+
+    nextButton.addEventListener('click', () => {
+      stopSlideShow();
+      nextSlide();
+      startSlideShow();
+    });
+  </script>
+</body>
+</html>

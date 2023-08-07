@@ -1,0 +1,83 @@
+captain america
+
+Issue:	# 100	 Captain America Issue # 100's cover image
+Cover Date:	Apr '68
+Cover Price:	$0.12
+Current Value:	$1,800.00 Historical Pricing Values
+Searched:	45380
+Owned:	437
+Pages:	32
+
+Issue:	# 104	 Captain America Issue # 104's cover image
+Cover Date:	Aug '68
+Cover Price:	$0.12
+Current Value:	$140.00 Historical Pricing Values
+Searched:	9054
+Owned:	345
+Pages:	32
+
+Issue:	# 117	 Captain America Issue # 117's cover image
+Cover Date:	Sep '69
+Cover Price:	$0.15
+Current Value:	$1,800.00 Historical Pricing Values
+Searched:	29437
+Owned:	343
+Pages:	32
+
+Issue:	# 126	 Captain America Issue # 126's cover image
+Cover Date:	Jun '70
+Cover Price:	$0.15
+Current Value:	$55.00 Historical Pricing Values
+Searched:	3238
+Owned:	252
+Pages:	32
+
+Issue:	# 124	 Captain America Issue # 124's cover image
+Cover Date:	Apr '70
+Cover Price:	$0.15
+Current Value:	$55.00 Historical Pricing Values
+Searched:	3683
+Owned:	251
+Pages:	32
+
+Issue:	# 128	 Captain America Issue # 128's cover image
+Cover Date:	Aug '70
+Cover Price:	$0.15
+Current Value:	$55.00 Historical Pricing Values
+Searched:	3014
+Owned:	242
+Pages:	32
+
+Issue:	# 214whitman	 Captain America Issue # 214whitman's cover image
+Cover Date:	Oct '77
+Cover Price:	$0.30
+Current Value:	$16.00 Historical Pricing Values
+Searched:	217
+Owned:	7
+Pages:	32
+
+Issue:	# 186	 Captain America Issue # 186's cover image
+Cover Date:	Jun '75
+Cover Price:	$0.25
+Current Value:	$27.00 Historical Pricing Values
+Searched:	4599
+Owned:	364
+Pages:	32
+
+Issue:	# 209	 Captain America Issue # 209's cover image
+Cover Date:	May '77
+Cover Price:	$0.30
+Current Value:	$16.00 Historical Pricing Values
+Searched:	3192
+Owned:	457
+Pages:	32
+
+Issue:	# 234	 Captain America Issue # 234's cover image
+Cover Date:	Jun '79
+Cover Price:	$0.40
+Current Value:	$10.00 Historical Pricing Values
+Searched:	3192
+Owned:	398
+Pages:	32
+
+

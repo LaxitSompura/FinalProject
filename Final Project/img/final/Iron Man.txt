@@ -1,0 +1,79 @@
+Issue:	# 1	 Iron Man Issue # 1's cover image
+Cover Date:	May '68
+Cover Price:	$0.12
+Current Value:	$1,250.00 Historical Pricing Values
+Searched:	33200
+Owned:	442
+Pages:	32
+
+Issue:	# 2	 Iron Man Issue # 2's cover image
+Cover Date:	Jun '68
+Cover Price:	$0.12
+Current Value:	$300.00 Historical Pricing Values
+Searched:	19909
+Owned:	376
+Pages:	32
+
+Issue:	# 5	 Iron Man Issue # 5's cover image
+Cover Date:	Sep '68
+Cover Price:	$0.12
+Current Value:	$150.00 Historical Pricing Values
+Searched:	9496
+Owned:	351
+Pages:	32
+
+Issue:	# 7	 Iron Man Issue # 7's cover image
+Cover Date:	Nov '68
+Cover Price:	$0.12
+Current Value:	$120.00 Historical Pricing Values
+Searched:	6092
+Owned:	336
+Pages:	32
+
+Issue:	# 22	 Iron Man Issue # 22's cover image
+Cover Date:	Feb '70
+Cover Price:	$0.15
+Current Value:	$55.00 Historical Pricing Values
+Searched:	2950
+Owned:	241
+Pages:	32
+
+Issue:	# 47family dollar	 Iron Man Issue # 47family dollar's cover image
+Cover Date:	Aug '09
+Cover Price:	$2.50
+Current Value:	$4.00 Historical Pricing Values
+Searched:	2725
+Owned:	54
+Pages:	28
+
+Issue:	# 63	 Iron Man Issue # 63's cover image
+Cover Date:	Oct '73
+Cover Price:	$0.20
+Current Value:	$32.00 Historical Pricing Values
+Searched:	2534
+Owned:	284
+Pages:	32
+
+Issue:	# 89b	 Iron Man Issue # 89b's cover image
+Cover Date:	Aug '76
+Cover Price:	$0.30
+Current Value:	$50.00 Historical Pricing Values
+Searched:	3166
+Owned:	16
+Pages:	32
+
+Issue:	# 100	 Iron Man Issue # 100's cover image
+Cover Date:	Jul '77
+Cover Price:	$0.30
+Current Value:	$50.00 Historical Pricing Values
+Searched:	24526
+Owned:	718
+Pages:	32
+
+Issue:	# 88	 Iron Man Issue # 88's cover image
+Cover Date:	Jul '76
+Cover Price:	$0.25
+Current Value:	$18.00 Historical Pricing Values
+Searched:	3598
+Owned:	413
+Pages:	32

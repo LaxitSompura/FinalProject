@@ -1,0 +1,81 @@
+Issue:	# 1	 Avengers Issue # 1's cover image
+Cover Date:	Sep '63
+Cover Price:	$0.12
+Current Value:	$55,000.00 Historical Pricing Values
+Searched:	42321
+Owned:	155
+Pages:	32
+
+Issue:	# 11	 Avengers Issue # 11's cover image
+Cover Date:	Dec '64
+Cover Price:	$0.12
+Current Value:	$1,000.00 Historical Pricing Values
+Searched:	17702
+Owned:	226
+Pages:	32
+
+Issue:	# 26	 Avengers Issue # 26's cover image
+Cover Date:	Mar '66
+Cover Price:	$0.12
+Current Value:	$210.00 Historical Pricing Values
+Searched:	7587
+Owned:	291
+Pages:	32
+
+Issue:	# 28b	 Avengers Issue # 28b's cover image
+Cover Date:	
+Cover Price:	Free
+Current Value:	$4.00 Historical Pricing Values
+Searched:	1815
+Owned:	9
+Pages:	
+
+Issue:	# 91	 Avengers Issue # 91's cover image
+Cover Date:	Aug '71
+Cover Price:	$0.15
+Current Value:	$115.00 Historical Pricing Values
+Searched:	5789
+Owned:	324
+Pages:	32
+
+Issue:	# 79	 Avengers Issue # 79's cover image
+Cover Date:	Aug '70
+Cover Price:	$0.15
+Current Value:	$115.00 Historical Pricing Values
+Searched:	4499
+Owned:	311
+Pages:	32
+
+Issue:	# 50	 Avengers Issue # 50's cover image
+Cover Date:	Mar '68
+Cover Price:	$0.12
+Current Value:	$145.00 Historical Pricing Values
+Searched:	8029
+Owned:	349
+Pages:	32
+
+Issue:	# 76	 Avengers Issue # 76's cover image
+Cover Date:	May '70
+Cover Price:	$0.15
+Current Value:	$115.00 Historical Pricing Values
+Searched:	4038
+Owned:	275
+Pages:	32
+
+Issue:	# 92	 Avengers Issue # 92's cover image
+Cover Date:	Sep '71
+Cover Price:	$0.15
+Current Value:	$160.00 Historical Pricing Values
+Searched:	9888
+Owned:	344
+Pages:	32
+
+Issue:	# 308	 Avengers Issue # 308's cover image
+Cover Date:	Oct '89
+Cover Price:	$1.00
+Current Value:	$5.00 Historical Pricing Values
+Searched:	3127
+Owned:	913
+Pages:	32
+
+

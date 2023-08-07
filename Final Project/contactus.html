@@ -1,0 +1,78 @@
+<!--This is a group Project done by Laxit Sompura(200556299) and Jainam Daxesh Thakkar(200556069)-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Comic Book Store</title>
+  <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+  <!-- Header section -->
+  <header>
+    <div class="logo-title">
+      <!-- Comic Book Store Logo -->
+      <a href="index.html"><img src="./img/LOGO.png" alt="Comic Book Store Logo"></a>
+      <!-- Store name -->
+      <span class="logo-text">Golden Age Comics Hub</span>
+    </div>
+    <!-- Navigation menu -->
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="store.html">Store</a></li>
+        <li><a href="aboutus.html">About</a></li>
+        <li><a href="contactus.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <br>
+  <!-- Contact section -->
+  <section>
+    <h2>Contact Us...</h2>
+    <p>We hope that you enjoyed...</p>
+  </section> <br>
+
+  <!-- Contact form -->
+  <div class="contact-container">
+    <h1>Contact Us</h1>
+    <form id="contact-form"> <!-- Add the ID "contact-form" here -->
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="phone">Phone:</label>
+      <input type="tel" id="phone" name="phone">
+
+      <label for="message">Message:</label>
+      <textarea id="message" name="message" rows="4" required></textarea>
+
+      <!-- Submit button -->
+      <button type="submit">Submit</button>
+    </form>
+  </div>
+  <br>
+  <!-- Footer section -->
+  <footer>
+    <div class="footer-content">
+      <!-- Copyright notice -->
+      <p>2023 Golden Age Comics Hub</p>
+    </div>
+  </footer>
+  <!-- JavaScript for form submission -->
+  <script>
+    const contactForm = document.getElementById('contact-form');
+
+    // Handle form submission
+    contactForm.addEventListener('submit', function(event) {
+      event.preventDefault();
+      alert('Thanks for contacting us! We will get in touch with you as soon as possible.');
+
+      // Redirect to index.html after the alert is closed
+      window.location.href = 'index.html';
+    });
+  </script>
+</body>
+</html>

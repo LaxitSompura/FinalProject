@@ -1,0 +1,81 @@
+spider man
+
+Issue:	# 1d	 Spider-Man Issue # 1d's cover image
+Cover Date:	Aug '90
+Cover Price:	$1.75
+Current Value:	$15.00 Historical Pricing Values
+Searched:	54736
+Owned:	448
+Pages:	32
+
+Issue:	# 5b	 Spider-Man Issue # 5b's cover image
+Cover Date:	Dec '00
+Cover Price:	$1.75
+Current Value:	$4.00 Historical Pricing Values
+Searched:	7755
+Owned:	98
+Pages:	32
+
+Issue:	# 1	 Spider-Man / Captain America / Incredible Hulk / Spider-Woman Issue # 1's cover image
+Cover Date:	Jan '81
+Cover Price:	Free
+Current Value:	$20.00 Historical Pricing Values
+Searched:	666
+Owned:	90
+Pages:	36
+
+TPB:	# 1	 Spider-Man / Punisher / Sabretooth: Designer Genes TPB # 1's cover image
+Cover Date:	May '93
+Cover Price:	$8.95
+Current Value:	$10.00 Historical Pricing Values
+Searched:	472
+Owned:	231
+Pages:	64
+
+Issue:	# 1	 Amazing Spider-Man Issue # 1's cover image
+Cover Date:	Mar '63
+Cover Price:	$0.12
+Current Value:	$100,000.00 Historical Pricing Values
+Searched:	123844
+Owned:	181
+Pages:	32
+
+Issue:	# 10	 Amazing Spider-Man Issue # 10's cover image
+Cover Date:	Mar '64
+Cover Price:	$0.12
+Current Value:	$3,000.00 Historical Pricing Values
+Searched:	20770
+Owned:	196
+Pages:	32
+
+Issue:	# 77	 Amazing Spider-Man Issue # 77's cover image
+Cover Date:	Oct '69
+Cover Price:	$0.15
+Current Value:	$200.00 Historical Pricing Values
+Searched:	13299
+Owned:	556
+Pages:	32
+
+Issue:	# 89	 Amazing Spider-Man Issue # 89's cover image
+Cover Date:	Oct '70
+Cover Price:	$0.15
+Current Value:	$200.00 Historical Pricing Values
+Searched:	11504
+Owned:	502
+Pages:	32
+
+Issue:	# 96	 Amazing Spider-Man Issue # 96's cover image
+Cover Date:	May '71
+Cover Price:	$0.15
+Current Value:	$250.00 Historical Pricing Values
+Searched:	22018
+Owned:	530
+Pages:	32
+
+Issue:	# 210	 Amazing Spider-Man Issue # 210's cover image
+Cover Date:	Nov '80
+Cover Price:	$0.50
+Current Value:	$175.00 Historical Pricing Values
+Searched:	34539
+Owned:	1052
+Pages:	32
